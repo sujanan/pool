@@ -1,4 +1,4 @@
-# Extremely minimal static thread pool in C
+# Minimal static thread pool in C
 * Uses POSIX threads.
 * Uses semaphores.
 * No lazy creation. Every worker start at the pool creation.
